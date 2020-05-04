@@ -12,3 +12,4 @@ Syntax highlighted code block
 ```
 
 佛不度人人自度
+花好月圆古难全
